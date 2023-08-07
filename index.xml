@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FlowerShop>
+  <flower status=" Flower Product" >
+    <flowerid> 1 </flowerid>
+    <flowername> Rose </flowername>
+    <Noofitems> 2924 units </Noofitems>
+
+</flower>
+
+<flower status=" Flower Product" >
+    <flowerid> 2 </flowerid>
+    <flowername> Tulip </flowername>
+    <Noofitems> 2924 units </Noofitems>
+
+</flower>
+
+<flower status=" Flower Product" >
+    <flowerid> 3 </flowerid>
+    <flowername> Lily </flowername>
+    <Noofitems> 2924 units </Noofitems>
+
+</flower>
+
+<flower status=" Flower Product" >
+    <flowerid> 4 </flowerid>
+    <flowername> Jasmin </flowername>
+    <Noofitems> 2924 units </Noofitems>
+
+</flower>
+
+<flower status=" Flower Product" >
+    <flowerid> 5 </flowerid>
+    <flowername> Daffodils </flowername>
+    <Noofitems> 2924 units </Noofitems>
+
+</flower>
+</FlowerShop>
