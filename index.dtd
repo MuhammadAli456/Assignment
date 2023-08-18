@@ -1,0 +1,8 @@
+<!ELEMENT HNStationers (stationery+)>
+<!ELEMENT stationery (ProductId, ProductName, Quantity, PriceperUnit, PriceperDozen, InStock)>
+<!ELEMENT ProductId (#PCDATA)>
+<!ELEMENT ProductName (#PCDATA)>
+<!ELEMENT PriceperUnit (#PCDATA)>
+<!ELEMENT PriceperDozen (#PCDATA)>
+<!ELEMENT Quantity (#PCDATA)>
+<!ELEMENT InStock (#PCDATA)>

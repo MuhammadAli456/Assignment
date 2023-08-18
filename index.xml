@@ -1,38 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="index.dtd" type="application/xml-dtd"?>
+<?xml-model href="index.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
+<HNStationers>
 
-<FlowerShop>
-  <flower status=" Flower Product" >
-    <flowerid> 1 </flowerid>
-    <flowername> Rose </flowername>
-    <Noofitems> 2924 units </Noofitems>
+  <stationery>
+    <ProductId> 1 </ProductId>
+    <ProductName> Pencil </ProductName>
+    <Quantity> 12000 units </Quantity>
+    <PriceperUnit> 10 </PriceperUnit>
+    <PriceperDozen> 110 </PriceperDozen>
+    <InStock> yes </InStock>
+ </stationery>
 
-</flower>
+ <stationery>
+    <ProductId> 2 </ProductId>
+    <ProductName> Pen </ProductName>
+    <Quantity> 6000 units </Quantity>
+    <PriceperUnit> 60 </PriceperUnit>
+    <PriceperDozen> 700 </PriceperDozen>
+    <InStock> yes </InStock>
+ </stationery>
 
-<flower status=" Flower Product" >
-    <flowerid> 2 </flowerid>
-    <flowername> Tulip </flowername>
-    <Noofitems> 2924 units </Noofitems>
+ <stationery>
+    <ProductId> 3 </ProductId>
+    <ProductName> Eraser  </ProductName>
+    <Quantity> 15000 units  </Quantity>
+    <PriceperUnit> 7 </PriceperUnit>
+    <PriceperDozen> 80 </PriceperDozen>
+    <InStock> yes </InStock>
+ </stationery>
 
-</flower>
+ <stationery>
+    <ProductId> 4 </ProductId>
+    <ProductName> Sharpener </ProductName>
+    <Quantity> 0 units </Quantity>
+    <PriceperUnit> 10 </PriceperUnit>
+    <PriceperDozen> 110 </PriceperDozen>
+    <InStock> no </InStock>
+ </stationery>
 
-<flower status=" Flower Product" >
-    <flowerid> 3 </flowerid>
-    <flowername> Lily </flowername>
-    <Noofitems> 2924 units </Noofitems>
+ <stationery>
+    <ProductId> 1 </ProductId>
+    <ProductName> Board Marker </ProductName>
+    <Quantity> 500 units </Quantity>
+    <PriceperUnit> 80 </PriceperUnit>
+    <PriceperDozen> 900 </PriceperDozen>
+    <InStock> yes </InStock>
+ </stationery>
 
-</flower>
-
-<flower status=" Flower Product" >
-    <flowerid> 4 </flowerid>
-    <flowername> Jasmin </flowername>
-    <Noofitems> 2924 units </Noofitems>
-
-</flower>
-
-<flower status=" Flower Product" >
-    <flowerid> 5 </flowerid>
-    <flowername> Daffodils </flowername>
-    <Noofitems> 2924 units </Noofitems>
-
-</flower>
-</FlowerShop>
+</HNStationers>
